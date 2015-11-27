@@ -1,0 +1,13 @@
+window_sizes 1280 962 300 900 682 82
+diagrams
+  active  classdiagram_ref 128002 // class diagram
+    974 804 100 4 0 0
+end
+show_stereotypes
+open
+  class_ref 128002 // Shape
+  class_ref 128130 // Circle
+  class_ref 128258 // Rectangle
+  class_ref 128386 // DrawingApplication
+end
+end
